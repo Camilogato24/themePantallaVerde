@@ -1,2 +1,2 @@
-# themePantallaVerde
-Repositorio del tema de la pagina pantallaverde, construida con base en bloques 
+# gutenberg-tutorial
+Learn Gutenberg from scratch: https://www.youtube.com/playlist?list=PLriKzYyLb28lHhftzU7Z_DJ32mvLy4KKH
